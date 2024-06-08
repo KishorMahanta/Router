@@ -1,0 +1,39 @@
+
+body{
+  background-color: #242424;
+  color: #f9f9f9;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  gap: 34px;
+  background-color: #ab2929;
+  color: #f9f9f9;
+  font-size: larger;
+
+
+}
+.nav:hover{
+  background-color: aqua;
+}
+
+li{
+  list-style: none;
+padding: 23px;
+
+}
+a li{
+  color: #f9f9f9;
+  list-style: none;
+  
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+black{
+  background-color: aqua;
+  color: antiquewhite;
+}
